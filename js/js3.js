@@ -1,0 +1,1 @@
+requirejs.config({bundles:{"magepack/bundle-cms":["js/lib/swiper-bundle.min"]}});
